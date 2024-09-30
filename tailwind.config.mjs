@@ -5,8 +5,8 @@ export default {
   content: ["./src/**/*.{astro,html,js,jsx,md,mdx,svelte,ts,tsx,vue}"],
   theme: {
     screens: {
-      'sm': '720px',
-      // => @media (min-width: 720px) { ... }
+      'sm': '640px',
+      // => @media (min-width: 640px) { ... }
 
       'md': '960px',
       // => @media (min-width: 960px) { ... }
