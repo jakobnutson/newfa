@@ -1,7 +1,9 @@
 ---
 title: Storage Tiering for File Servers
 decription: The use case for storage optimization activities
-date: 2023-08-31
+date: 2023-08-30
+tags: 
+   - ITIL
 ---
 
 ## Intro
