@@ -5,7 +5,7 @@ date: 2023-04-25
 tags:
   - ITIL
 ---
-\public\itil-journey.jpg
+![itil](..public/itil-journey.jpg)
 Embarking on the ITIL certification journey is a decision that ultimately depends on your goals and priorities. However, I can provide some guidance on what to expect along the way.
 
 Starting with the ITIL Foundation certification, you will gain a solid understanding of the fundamentals of IT Service Management (ITSM). This includes the guiding principles and the Continual Improvement model. This certification is beneficial for anyone who provides services, communicates with the business, or is interested in pursuing a career in service management. The cost of the exam fee through PeopleCert is $500.
